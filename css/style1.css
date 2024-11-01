@@ -1,0 +1,22 @@
+/* General font for entire document */
+body {
+  font-family: Calibri, sans-serif;
+}
+
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 5px;
+}
+
+th {
+  background-color: lightgray;
+}

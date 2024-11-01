@@ -1,0 +1,23 @@
+body {
+  font-family: Calibri, sans-serif;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+th {
+  background-color: lightgray;
+}
+
+#profile-picture img {
+  display: block;
+  margin-top: 20px;
+}
